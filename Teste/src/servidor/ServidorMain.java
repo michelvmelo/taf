@@ -8,46 +8,42 @@ import java.io.PrintStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class ServidorMain {
+import navigators.smart.tom.MessageContext;
+import navigators.smart.tom.server.Recoverable;
+import navigators.smart.tom.server.SingleExecutable;
+import navigators.smart.tom.ServiceReplica;
+
+
+public class ServidorMain implements SingleExecutable, Recoverable {
+    
+    private ServiceReplica replica;
+    
+    public ServidorMain(int id){
+        replica = new ServiceReplica(id,this,this);
+    }
     
     public static void main(String[] args) throws Exception{
         
-        System.out.println("Iniciando servidor.");
-		
-		ServerSocket server = new ServerSocket(7001);  
-		
-		System.out.println("Aguardando conexão.");
-		
-		Socket socket = server.accept();
-		
-		System.out.println("Conexão estabelecida.");
-		
-		InputStream  input  = socket.getInputStream();
-		OutputStream output = socket.getOutputStream();
-		
-		BufferedReader in  = new BufferedReader(new InputStreamReader(input));
-		PrintStream    out = new PrintStream(output);
-		
-		while(true){
-			String mensagem = in.readLine();
-			
-			System.out.println("Mensagem recebida do cliente [" + socket.getInetAddress().getHostAddress() + "]: " + mensagem);
-			
-			if("FIM".equals(mensagem)){
-				break;
-			}
-				
-			out.println(mensagem);
-		}
-	
-		System.out.println("Encerrando conexão.");
-		
-		in.close();
-		out.close();
-		socket.close();
-		
-		System.out.println("Encerrando servidor.");
-		
-		server.close();
+        new ServidorMain(Integer.parseInt(args[0]));
+    }
+    
+    @Override
+    public byte[] executeOrdered(byte[] bytes, MessageContext mc) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public byte[] executeUnordered(byte[] bytes, MessageContext mc) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public byte[] getState() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setState(byte[] bytes) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
