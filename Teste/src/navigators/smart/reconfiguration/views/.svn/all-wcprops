@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/views
+END
+ViewStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/views/ViewStorage.java
+END
+DefaultViewStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/views/DefaultViewStorage.java
+END
+TestViewSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/views/TestViewSerialization.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/views/View.java
+END

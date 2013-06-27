@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/branches/bft-smartr185/src/navigators/smart/tom
+END
+ServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/243/branches/bft-smartr185/src/navigators/smart/tom/ServiceProxy.java
+END
+MessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/tom/MessageContext.java
+END
+TOMSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/tom/TOMSender.java
+END
+ReplicaContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/243/branches/bft-smartr185/src/navigators/smart/tom/ReplicaContext.java
+END
+ServiceReplica.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/243/branches/bft-smartr185/src/navigators/smart/tom/ServiceReplica.java
+END
+TOMReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/243/branches/bft-smartr185/src/navigators/smart/tom/TOMReceiver.java
+END

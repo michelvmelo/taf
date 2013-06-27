@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration
+END
+ReconfigureRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/ReconfigureRequest.java
+END
+ClientViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/ClientViewManager.java
+END
+ReconfigureReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/ReconfigureReply.java
+END
+ViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/ViewManager.java
+END
+TTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/TTP.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/View.java
+END
+TTPServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/TTPServices.java
+END
+TTPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/TTPMessage.java
+END
+ServerViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/ServerViewManager.java
+END
+ReconfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/ReconfigurationTest.java
+END
+Reconfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/reconfiguration/Reconfiguration.java
+END

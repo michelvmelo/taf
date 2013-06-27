@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/236/branches/bft-smartr185/src/navigators/smart/statemanagment
+END
+SMMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/statemanagment/SMMessage.java
+END
+TransferableState.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/statemanagment/TransferableState.java
+END
+StateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/240/branches/bft-smartr185/src/navigators/smart/statemanagment/StateManager.java
+END
+BatchInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/statemanagment/BatchInfo.java
+END
+StateLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/240/branches/bft-smartr185/src/navigators/smart/statemanagment/StateLog.java
+END

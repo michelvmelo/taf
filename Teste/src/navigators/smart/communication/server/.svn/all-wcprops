@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/branches/bft-smartr185/src/navigators/smart/communication/server
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/server/Test.java
+END
+ServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/branches/bft-smartr185/src/navigators/smart/communication/server/ServerConnection.java
+END
+ServersCommunicationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/server/ServersCommunicationLayer.java
+END
+TestSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/server/TestSerialization.java
+END

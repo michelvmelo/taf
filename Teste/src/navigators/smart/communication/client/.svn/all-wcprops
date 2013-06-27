@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/branches/bft-smartr185/src/navigators/smart/communication/client
+END
+ReplyReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/client/ReplyReceiver.java
+END
+ReplyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/client/ReplyListener.java
+END
+CommunicationSystemServerSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/client/CommunicationSystemServerSide.java
+END
+CommunicationSystemClientSideFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/client/CommunicationSystemClientSideFactory.java
+END
+RequestReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/client/RequestReceiver.java
+END
+CommunicationSystemClientSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/client/CommunicationSystemClientSide.java
+END
+CommunicationSystemServerSideFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/client/CommunicationSystemServerSideFactory.java
+END

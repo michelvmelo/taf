@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/branches/bft-smartr185/src/navigators/smart/communication
+END
+ServerCommunicationSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/ServerCommunicationSystem.java
+END
+MessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/MessageHandler.java
+END
+SystemMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/219/branches/bft-smartr185/src/navigators/smart/communication/SystemMessage.java
+END
